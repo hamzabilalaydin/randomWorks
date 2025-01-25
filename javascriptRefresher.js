@@ -22,3 +22,12 @@
 //   return fullName;
 // };
 // console.log(getFullName("Hamza", "Aydin"));
+
+//Returnin an Object
+const createUser = (name, age) => ({ name, age });
+console.log(createUser("Alice", 30));
+
+//Arrow Functions in Callbacks
+const numbers = [1, 2, 3, 4];
+const squares = numbers.map((num) => num * num);
+console.log(squares);

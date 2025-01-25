@@ -3,6 +3,5 @@
 //     - Lunch
 //     - Dinner`);
 
-
-const greet = name => `Hello, ${name}!`;
-console.log(greet('John')); // Hello, John!
+// const greet = name => `Hello, ${name}!`;
+// console.log(greet('John')); // Hello, John!

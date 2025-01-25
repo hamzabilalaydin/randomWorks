@@ -1,4 +1,4 @@
-console.log(`Today I had:
-    - Breakfast
-    - Lunch
-    - Dinner`);
+// console.log(`Today I had:
+//     - Breakfast
+//     - Lunch
+//     - Dinner`);

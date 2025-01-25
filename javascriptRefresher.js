@@ -15,3 +15,10 @@
 //Single-Line Function Body (Implicit Return):
 // const multiply = (x, y) => x * y;
 // console.log(multiply(4, 5)); // 20
+
+//Multi-Line Function Body
+// const getFullName = (firstName, lastName) => {
+//   const fullName = `${firstName} ${lastName}`;
+//   return fullName;
+// };
+// console.log(getFullName("Hamza", "Aydin"));
